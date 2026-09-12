@@ -1,0 +1,10 @@
+{
+  "description": "This web application offers a robust document editing platform with user account management, enabling seamless collaboration and content creation for teams.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
